@@ -16,9 +16,11 @@
  <hr> 
  
  ### Descripción del proyecto 
+   ![pasos amigo secreto](https://github.com/user-attachments/assets/a52bb92d-5eef-4879-858f-b5f11ef81bdb)
+   
 <p align="justify">
  Projecto desarrollado para el cursado de Principiante en Programación de la capacitación dictada por Alura en el programa One Oracle Next Education. Consiste en un juego que permite al usuario ingresar los nombres de sus amigos y sortear un amigo secreto entre los ingresados previamente. 
-</p>
+ </p>
 
  ### Estado del proyecto
   <p align="justify">
