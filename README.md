@@ -17,7 +17,7 @@
  
  ### Descripción del proyecto 
 <p align="justify">
- Projecto desarrollado para el cursado de Principiante en Programación de la capacitación dictada por Alura en el programa One Oracle Next Education. Consiste en un juego que permite al usuario sortear un amigo entre varios ingresados previamente. 
+ Projecto desarrollado para el cursado de Principiante en Programación de la capacitación dictada por Alura en el programa One Oracle Next Education. Consiste en un juego que permite al usuario ingresar los nombres de sus amigos y sortear un amigo secreto entre los ingresados previamente. 
 </p>
 
  ### Estado del proyecto
@@ -27,12 +27,8 @@ En verificación.
 
 ### Acceso al proyecto
  <p align="justify">
-Luego de descargar los archivos que componen el proyecto, puede abrir la aplicación utilizando su navegador web predeterminado. Para ello acceda a la carpeta anteriormente descargada y haga doble clic sobre el archivo Index.html.
-</p>
-
- ### Tecnologías utilizadas
- <p align="justify">
-El juego fue desarrollado utilizando los lenguajes Html, Javascript y Css. El editor de codigo usado fué Visual Studio Code.
+Puede acceder al código fonte del proyecto: ([https://github.com/dinacastillo512/amigo-secreto])
+Luego de descargar los archivos que componen el mismo, puede abrir la aplicación utilizando su navegador web predeterminado. Para ello acceda a la carpeta anteriormente descargada y haga doble clic sobre el archivo Index.html.
 </p>
 
  ### Tecnologías utilizadas
