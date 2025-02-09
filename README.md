@@ -27,8 +27,8 @@ En verificación.
 
 ### Acceso al proyecto
  <p align="justify">
-Puede acceder directamente a la aplicación en:  ([https://dinacastillo512.github.io/amigo-secreto/]).
-Puede acceder al código fonte del proyecto: ([https://github.com/dinacastillo512/amigo-secreto]).
+Puede acceder directamente a la aplicación en:  https://dinacastillo512.github.io/amigo-secreto/.
+Puede acceder al código fuente del proyecto: https://github.com/dinacastillo512/amigo-secreto.
 Luego de descargar los archivos que componen el mismo, puede abrir la aplicación utilizando su navegador web predeterminado. Para ello acceda a la carpeta anteriormente descargada y haga doble clic sobre el archivo Index.html.
 </p>
 
